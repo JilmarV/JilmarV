@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="left">Languages</h3>
-<p align="center">
+<p align="left">
   <a href="https://www.java.com" target="_blank">
   <img 
     src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white"
