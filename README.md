@@ -210,7 +210,7 @@ enfrentar nuevos retos técnicos. </p>
 <div style="margin-top:10px" align="left">
   <a href="https://www.linkedin.com/in/jilmar-said-veloza-paez-8010a3166" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"/>
   </a>
 </div>
