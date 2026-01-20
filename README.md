@@ -29,11 +29,11 @@
       alt="html5"/> 
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
-  <img
-    src="https://custom-icon-badges.demolab.com/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-    alt="CSS"
-  />
-</a>
+    <img
+      src="https://custom-icon-badges.demolab.com/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+      alt="CSS"
+    />
+  </a>
 </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
