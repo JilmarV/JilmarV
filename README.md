@@ -16,7 +16,7 @@
   </a>
   <a href="https://www.python.org" target="_blank">
   <img
-    src="https://custom-icon-badges.demolab.com/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+    src="https://custom-icon-badges.demolab.com/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"
     alt="Python"
   />
 </a>
