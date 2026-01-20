@@ -7,6 +7,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Google+Sans+Code&weight=200&pause=1000&color=F2F70E&center=true&vCenter=true&width=435&lines=Desarrollador+Backend+y+Frontend;Ingeniero+de+software+en+formaci%C3%B3n;Java+%C2%B7+Spring+Boot+%C2%B7+MySQL+%C2%B7+Angular" alt="Typing SVG" />
   </a>
 </p>
+
 ---
 
 <h3 align="left">About me</h3> <p align="left"> Soy desarrollador de software en formación con enfoque en <strong>
