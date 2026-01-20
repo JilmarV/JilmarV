@@ -220,11 +220,11 @@ enfrentar nuevos retos técnicos. </p>
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=JilmarV&show_icons=true&theme=dark"
+    src="https://github-readme-stats.vercel.app/api?username=JilmarV&show_icons=true&theme=algolia"
     height="165"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JilmarV&layout=compact&theme=dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JilmarV&layout=compact&theme=algolia"
     height="165"
   />
 </div>
@@ -237,8 +237,6 @@ enfrentar nuevos retos técnicos. </p>
     height="165"
   />
 </div>
-
-<hr width="60%" />
 
 ----
 
