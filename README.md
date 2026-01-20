@@ -5,7 +5,9 @@ I'm Jilmar Veloza <img height="32" src="https://cdn3.emoji.gg/emojis/75599-zooom
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Google+Sans+Code&weight=200&pause=1000&color=F2F70E&center=true&vCenter=true&width=435&lines=Desarrollador+Backend+y+Frontend;Ingeniero+de+software+en+formaci%C3%B3n;Java+%C2%B7+Spring+Boot+%C2%B7+MySQL+%C2%B7+Angular" alt="Typing SVG" />
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Google+Sans+Code&weight=200&pause=1000&color=F2F70E&center=true&vCenter=true&width=435&lines=Desarrollador+Backend+y+Frontend;Ingeniero+de+software+en+formaci%C3%B3n;Java+%C2%B7+Spring+Boot+%C2%B7+MySQL+%C2%B7+Angular"
+      alt="Typing SVG" />
   </a>
 </p>
 
@@ -72,7 +74,6 @@ enfrentar nuevos retos técnicos. </p>
       src="https://img.shields.io/badge/Jetpack%20Compose-4285F4.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white"
       alt="Jetpack Compose"/>
   </a>
-
 </p>
 
 <h3 align="left">Backend</h3>
@@ -101,7 +102,7 @@ enfrentar nuevos retos técnicos. </p>
 
 <h3 align="left">Databases</h3>
 <p align="left">
-<a href="https://www.mysql.com/" target="_blank">
+  <a href="https://www.mysql.com/" target="_blank">
     <img
       src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"
       alt="MySQL"/>
@@ -202,6 +203,42 @@ enfrentar nuevos retos técnicos. </p>
       alt="XAMPP"/>
   </a>
 </p>
+
+---
+
+<h3 align="center">📊 My GitHub Stats</h3>
+
+<div align="center">
+  <img
+    src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif"
+    width="280"
+    alt="Coding"
+  />
+</div>
+
+<br/>
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=JilmarV&show_icons=true&theme=dark"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JilmarV&layout=compact&theme=dark"
+    height="165"
+  />
+</div>
+
+<br/>
+
+<div align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=JilmarV&theme=dark"
+    height="165"
+  />
+</div>
+
+<hr width="60%" />
 
 ----
 
