@@ -14,6 +14,12 @@
       alt="Java"
     />
   </a>
+  <a href="https://www.python.org" target="_blank">
+  <img
+    src="https://custom-icon-badges.demolab.com/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+    alt="Python"
+  />
+</a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
       alt="javascript"/> 
@@ -25,7 +31,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
   <img
     src="https://custom-icon-badges.demolab.com/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-    alt="CSS3"
+    alt="CSS"
   />
 </a>
 </a>
