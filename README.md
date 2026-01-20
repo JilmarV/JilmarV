@@ -264,6 +264,16 @@ enfrentar nuevos retos técnicos.
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"/>
   </a>
+  <a href="mailto:jilmar10k@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"/>
+  </a>
+  <a href="https://wa.me/573212526023" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+      alt="WhatsApp"/>
+  </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
