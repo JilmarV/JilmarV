@@ -20,23 +20,18 @@ I'm Jilmar Veloza <img height="32" src="https://cdn3.emoji.gg/emojis/75599-zooom
   </span>
 </h2>
 
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
-
-  <div style="flex: 1; text-align: justify;">
-    <p>
-      Soy desarrollador de software en formación con enfoque en <strong>Backend y Frontend</strong>, apasionado por la creación de aplicaciones robustas, escalables y bien estructuradas. Tengo experiencia trabajando con <strong>Java y Spring Boot</strong> para el desarrollo de APIs REST, así como con <strong>Angular</strong> y tecnologías web modernas para interfaces dinámicas y funcionales.
-    </p>
-    <p>
-      Me gusta trabajar con bases de datos relacionales como <strong>MySQL, PostgreSQL y Oracle</strong>, aplicando buenas prácticas de modelado y optimización de consultas. También tengo experiencia integrando servicios, manejando autenticación, procesamiento de archivos (Excel/CSV) y construyendo soluciones orientadas a datos reales.
-    </p>
-    <p>
-      Soy una persona curiosa, autodidacta y enfocada en el aprendizaje continuo, interesada en arquitectura de software, buenas prácticas, DevOps y el desarrollo de soluciones que aporten valor real. Siempre estoy buscando mejorar mis habilidades y enfrentar nuevos retos técnicos.
-    </p>
-  </div>
-
-  <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
-
-</div>
+<p align="left">
+Soy desarrollador de software en formación con enfoque en <strong>
+Backend y Frontend</strong>, apasionado por la creación de aplicaciones robustas, escalables y bien estructuradas. Tengo
+experiencia trabajando con <strong>Java y Spring Boot</strong> para el desarrollo de APIs REST, así como con <strong>
+Angular</strong> y tecnologías web modernas para interfaces dinámicas y funcionales. </p> <p align="left"> Me gusta
+trabajar con bases de datos relacionales como <strong>MySQL, PostgreSQL y Oracle</strong>, aplicando buenas prácticas de
+modelado y optimización de consultas. También tengo experiencia integrando servicios, manejando autenticación,
+procesamiento de archivos (Excel/CSV) y construyendo soluciones orientadas a datos reales. </p> <p align="left"> Soy una
+persona curiosa, autodidacta y enfocada en el aprendizaje continuo, interesada en arquitectura de software, buenas
+prácticas, DevOps y el desarrollo de soluciones que aporten valor real. Siempre estoy buscando mejorar mis habilidades y
+enfrentar nuevos retos técnicos.
+</p>
 
 ---
 
