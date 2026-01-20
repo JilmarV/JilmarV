@@ -226,11 +226,6 @@ enfrentar nuevos retos técnicos. </p>
     src="https://github-readme-stats.vercel.app/api/top-langs?username=JilmarV&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="adam-pw" 
     bg_color=#808080/>
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=JilmarV&theme=nightowl"
-    height="165"
-  />
-
 </div>
 
 ----
