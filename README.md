@@ -1,6 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Jilmar Veloza <img height="32" src="https://cdn3.emoji.gg/emojis/75599-zooom.gif"></h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">,
+I'm Jilmar Veloza <img height="32" src="https://cdn3.emoji.gg/emojis/75599-zooom.gif"></h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -207,10 +208,10 @@ enfrentar nuevos retos técnicos. </p>
 <h3 align="left">Connect with me</h3>
 
 <div style="margin-top:10px" align="left">
-  <a href="www.linkedin.com/in/jilmar-said-veloza-paez-8010a3166" target="_blank">
+  <a href="https://www.linkedin.com/in/jilmar-said-veloza-paez-8010a3166" target="_blank" rel="noopener noreferrer">
     <img
       src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="example"/>
+      alt="LinkedIn"/>
   </a>
 </div>
 
