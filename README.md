@@ -228,12 +228,10 @@ enfrentar nuevos retos técnicos. </p>
     height="165"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=JilmarV&theme=dark"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=JilmarV&theme=nightowl"
     height="165"
   />
 </div>
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JilmarV&theme=chartreuse-dark" alt="GitHub Streak" /></a>
 
 ----
 
