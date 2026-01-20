@@ -209,10 +209,9 @@ enfrentar nuevos retos técnicos. </p>
 <h3 align="center">📊 My GitHub Stats</h3>
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=JilmarV&show_icons=true&theme=algolia"
-    height="165"
-  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="adam-pw"/>
   <img
     src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif"
     width="280"
@@ -224,11 +223,13 @@ enfrentar nuevos retos técnicos. </p>
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JilmarV&layout=compact&theme=algolia"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=JilmarV&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="adam-pw" 
+    bg_color=#808080/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=JilmarV&theme=nightowl"
     height="165"
   />
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JilmarV&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
 
 </div>
 
