@@ -15,11 +15,11 @@
     />
   </a>
   <a href="https://www.python.org" target="_blank">
-  <img
-    src="https://custom-icon-badges.demolab.com/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"
-    alt="Python"
-  />
-</a>
+    <img
+      src="https://custom-icon-badges.demolab.com/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"
+      alt="Python"
+    />
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
       alt="javascript"/> 
@@ -41,12 +41,18 @@
   </a>
 </p>
 
-<h3 align="center">Frontend</h3>
-<p align="center">
+<h3 align="left">Frontend</h3>
+<p align="left">
       <a href="https://getbootstrap.com" target="_blank">
     <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
       alt="bootstrap"/>
   </a>
+  <a href="https://angular.io" target="_blank">
+  <img
+    src="https://custom-icon-badges.demolab.com/badge/Angular-C3002F?style=for-the-badge&logo=angular&logoColor=white"
+    alt="Angular"
+  />
+</a>
   <a href="https://babeljs.io/" target="_blank">
     <img src="https://img.shields.io/badge/babel-F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=black" alt="babel"/> 
   </a>
