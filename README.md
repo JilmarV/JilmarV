@@ -34,10 +34,9 @@ I'm Jilmar Veloza <img height="32" src="https://cdn3.emoji.gg/emojis/75599-zooom
     </p>
   </div>
 
-  <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+  <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
 
 </div>
-
 
 ---
 
