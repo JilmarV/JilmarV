@@ -233,6 +233,8 @@ enfrentar nuevos retos técnicos. </p>
   />
 </div>
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JilmarV&theme=chartreuse-dark" alt="GitHub Streak" /></a>
+
 ----
 
 <h3 align="left">Connect with me</h3>
