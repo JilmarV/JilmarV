@@ -13,7 +13,14 @@ I'm Jilmar Veloza <img height="32" src="https://cdn3.emoji.gg/emojis/75599-zooom
 
 ---
 
-<h3 align="left">About me</h3> <p align="left"> Soy desarrollador de software en formación con enfoque en <strong>
+<h2 align="left">
+  <span style="display: flex; align-items: center; gap: 10px;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N2x4amZvbWNtOTZtOG91dmxmaWEzZXQ0aGxyZHRicDk4YjhoZHF2bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/DjuXSRQ9PYkqvL3DAK/giphy.gif" width="40"/>
+    <span>About me</span>
+  </span>
+</h2>
+<p align="left">
+Soy desarrollador de software en formación con enfoque en <strong>
 Backend y Frontend</strong>, apasionado por la creación de aplicaciones robustas, escalables y bien estructuradas. Tengo
 experiencia trabajando con <strong>Java y Spring Boot</strong> para el desarrollo de APIs REST, así como con <strong>
 Angular</strong> y tecnologías web modernas para interfaces dinámicas y funcionales. </p> <p align="left"> Me gusta
@@ -22,9 +29,17 @@ modelado y optimización de consultas. También tengo experiencia integrando ser
 procesamiento de archivos (Excel/CSV) y construyendo soluciones orientadas a datos reales. </p> <p align="left"> Soy una
 persona curiosa, autodidacta y enfocada en el aprendizaje continuo, interesada en arquitectura de software, buenas
 prácticas, DevOps y el desarrollo de soluciones que aporten valor real. Siempre estoy buscando mejorar mis habilidades y
-enfrentar nuevos retos técnicos. </p>
+enfrentar nuevos retos técnicos.
+</p>
 
 ---
+
+<h2 align="center">
+  <span style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bzY5eWRwbjA2cHkzOG9oYjFkbHptNGc0ZzM3amZ2Z216bm1ndTJkeCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/TEdRZnV7l3S067fiGR/giphy.gif" width="40">
+    <span>Skills</span>
+  </span>
+</h2>
 
 <h3 align="left">Languages</h3>
 <p align="left">
@@ -56,7 +71,7 @@ enfrentar nuevos retos técnicos. </p>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img
-      src="https://custom-icon-badges.demolab.com/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+      src="https://custom-icon-badges.demolab.com/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"
       alt="CSS"/>
   </a>
   <a href="https://angular.io" target="_blank">
@@ -80,7 +95,7 @@ enfrentar nuevos retos técnicos. </p>
 <p align="left">
   <a href="https://spring.io/" target="_blank"> 
     <img 
-      src="https://img.shields.io/badge/spring%20IOC-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"
+      src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"
       alt="spring"/> 
   </a>
   <a href="https://spring.io/" target="_blank">
@@ -112,7 +127,7 @@ enfrentar nuevos retos técnicos. </p>
       src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
   </a>
   <a href="https://www.sqlite.org/" target="_blank">
-    <img 
+    <img
       src="https://custom-icon-badges.demolab.com/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   </a>
   <a href="https://www.microsoft.com/sql-server" target="_blank">
@@ -206,7 +221,12 @@ enfrentar nuevos retos técnicos. </p>
 
 ---
 
-<h3 align="center">📊 My GitHub Stats</h3>
+<h2 align="center">
+  <span style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">
+    <span>My GitHub Stats</span>
+  </span>
+</h2>
 
 <div align="center">
   <img 
@@ -230,7 +250,7 @@ enfrentar nuevos retos técnicos. </p>
 
 ----
 
-<h3 align="left">Connect with me</h3>
+<h2 align="left">Connect with me</h2>
 
 <div style="margin-top:10px" align="left">
   <a href="https://www.linkedin.com/in/jilmar-said-veloza-paez-8010a3166" target="_blank" rel="noopener noreferrer">
